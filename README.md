@@ -1,1 +1,1 @@
-# mutilArchBuildExample
+# multiArchBuildExample
